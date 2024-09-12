@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Shubh Mehta</h1>
-<h3 align="center">A passionate FullStack developer and Cyber Security Resercher from India</h3>
+<h1 align="center">Hi 👋, I'm Ashish Kumar Soni</h1>
+<h3 align="center">A passionate FullStack developer and Coding Anthusist from India</h3>
 
 - 🔭 GSoC'24 at [C2SI Org](https://github.com/c2siorg)
 
-- 🔭 SDE Intern at [Tranzact](https://github.com/fcbtech)
+- 🔭 Web Developer Intern at [Octanet Services](https://github.com/fcbtech)
 
-- 👨‍💻 Mentor @GSSoC'24
+- 👨‍💻 Tital Awardee at Amazon Hackon Season 3
 
 - 🌱 I’m currently learning **Devops**
 
 - 👨‍💻 All of my projects are available at [https://shubhmehta.netlify.app/](https://shubhmehta.netlify.app/)
 
-- 📫 How to reach me **shubhmehta942@gmail.com**
+- 📫 How to reach me **ashishsoni7195@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
