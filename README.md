@@ -1,21 +1,19 @@
 <h1 align="center">Hi 👋, I'm Ashish Kumar Soni</h1>
 <h3 align="center">A passionate FullStack developer and Coding Anthusist from India</h3>
 
-- 🔭 GSoC'24 at [C2SI Org](https://github.com/c2siorg)
-
 - 🔭 Web Developer Intern at [Octanet Services](https://github.com/fcbtech)
 
 - 👨‍💻 Tital Awardee at Amazon Hackon Season 3
 
 - 🌱 I’m currently learning **Devops**
 
-- 👨‍💻 All of my projects are available at [https://shubhmehta.netlify.app/](https://shubhmehta.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://github.com/Aksoni07?tab=repositories](https://github.com/Aksoni07?tab=repositories)
 
 - 📫 How to reach me **ashishsoni7195@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/shubh21197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubh21197" height="30" width="40" /></a>
+<a href="https://x.com/Ashishs76987291" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Ashishs76987291" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shubh-mehta197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubh-mehta197" height="30" width="40" /></a>
 <a href="https://instagram.com/_shubh197_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_shubh197_" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/imposter23" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="imposter23" height="30" width="40" /></a>
