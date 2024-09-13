@@ -3,7 +3,7 @@
 
 - 🔭 Web Developer Intern at [Octanet Services](https://github.com/fcbtech)
 
-- 👨‍💻 Titan (Top 50 coder) Awardee at Amazon HackOn Season 3
+- 👨‍💻 Titan [Top 50 coder]([https://github.com/fcbtech](https://drive.google.com/file/d/1sF-mUvBya_AfsQDDadkumfcPm1RLCKe9/view)) Awardee at Amazon HackOn Season 3
 
 - 🌱 I’m currently learning **DevOps**
 
