@@ -6,11 +6,11 @@
 - 👨‍💻 Titled as THE TITAN [Top 50 coder Awardee](https://drive.google.com/file/d/1sF-mUvBya_AfsQDDadkumfcPm1RLCKe9/view) at Amazon HackOn Season 3
 
 
-- 🌱 I’m currently learning **DevOps**
-
 - 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/Aksoni07?tab=repositories)
 
 - 📫 How to reach me: **ashishsoni7195@gmail.com**
+
+- - 🌱 I’m currently learning **DevOps.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
