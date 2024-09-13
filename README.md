@@ -10,7 +10,7 @@
 
 - 📫 How to reach me: **ashishsoni7195@gmail.com**
 
-- - 🌱 I’m currently learning **DevOps.**
+- 🌱 I’m currently learning **DevOps.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
