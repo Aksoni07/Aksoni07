@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashish Kumar Soni</h1>
-<h3 align="center">A passionate FullStack developer and Coding Enthusiast from India</h3>
+<h3 align="center">A passionate FullStack developer & Coding Enthusiast from India</h3>
 
 - 🔭 Web Developer Intern at [Octanet Services](https://github.com/fcbtech)
 
