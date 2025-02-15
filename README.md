@@ -3,7 +3,7 @@
 
 - 🔭 Web Developer Intern at [Octanet Services](https://drive.google.com/file/d/1c8qD04UiSfB7dprk87oaOEYOFLkBaSSUU/view?usp=drive_link)
 
-- 👨‍💻 Titled as THE TITAN [Top 50 coder Awardee](https://drive.google.com/file/d/1sF-mUvBya_AfsQDDadkumfcPm1RLCKe9/view) at Amazon HackOn Season 3
+- 👨‍💻 Titled as THE TITAN [top 50 coder awardee](https://drive.google.com/file/d/1sF-mUvBya_AfsQDDadkumfcPm1RLCKe9/view) at Amazon HackOn Season 3
 
 
 - 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/Aksoni07?tab=repositories)
@@ -14,13 +14,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://x.com/Ashishs76987291" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Ashishs76987291" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/ashish-kumar-soni-187b73175/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ashish Kumar Soni" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/ashiish.sonii/?igsh=ZTQwZWNxMjh3MGo2" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashish.soni" height="30" width="40" /></a>
   <a href="https://www.codechef.com/users/imposter23" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="imposter23" height="30" width="40" /></a>
-  <a href="https://codeforces.com/profile/ashishsoni7195" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Hulkk" height="30" width="40" /></a>
+  <a href="https://codeforces.com/profile/hulkk" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Hulkk" height="30" width="40" /></a>
   <a href="https://www.geeksforgeeks.org/user/ashishsoni07/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="AshishSoni07" height="30" width="40" /></a>
   <a href="https://leetcode.com/AshishSoni2027/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="AshishSoni2027" height="30" width="40" /></a>
+  <a href="https://x.com/Ashishs76987291" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Ashishs76987291" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
