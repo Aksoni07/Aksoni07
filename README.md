@@ -2,7 +2,7 @@
 <h3 align="center">A passionate FullStack developer & Coding Enthusiast from India</h3>
 
 - 👨‍💻 Titled as THE TITAN [top 50 coder awardee](https://drive.google.com/file/d/1sF-mUvBya_AfsQDDadkumfcPm1RLCKe9/view) at Amazon HackOn Season 3
-- 
+  
 - 👨‍💻 Finalist  [Juspay Hiring Challenge](https://) 2024.
 
 
